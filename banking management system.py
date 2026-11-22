@@ -1,5 +1,5 @@
 #PROJECT:PYTHON--Banking Management System
-#Conceot Used:OOP,Inhertance,Lambda,Filter,Exception Handling
+#Concept Used:OOP,Inhertance,Lambda,Filter,Exception Handling
 class Account():
   def __init__(self,acc_name,acc_num):
     self.acc_name=acc_name
